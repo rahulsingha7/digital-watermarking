@@ -36,4 +36,4 @@ The final output is a watermarked image where the watermark is embedded into the
  - ![Watermarked Image](https://i.ibb.co/jwn3PhN/vj.png)
 
 - **Final Merged Image**
-  ![Final Merged Image](https://i.ibb.co/23YxHpp/vk.png)
+ - ![Final Merged Image](https://i.ibb.co/23YxHpp/vk.png)
